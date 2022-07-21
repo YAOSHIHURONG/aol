@@ -1,4 +1,4 @@
-#include"./src/src/core/alex.h"
+#include"./src/alex.h"
 #include"../indexInterface.h"
 
 template<class KEY_TYPE, class PAYLOAD_TYPE>
